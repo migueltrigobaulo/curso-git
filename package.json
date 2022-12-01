@@ -1,0 +1,15 @@
+{
+  "name": "curso_git",
+  "version": "1.0.0",
+  "description": "Por Miguel Trigo Baulo el 20/11/2022 www.google.es",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
